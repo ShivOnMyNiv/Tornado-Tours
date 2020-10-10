@@ -1,0 +1,5 @@
+Controls
+Arrow Keys- Up/Down/Left/Right
+Space- Sucks objects towards you slowly when held
+Shift- Explodes objects outwards
+A and D key- rotates camera
